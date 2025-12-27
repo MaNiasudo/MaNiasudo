@@ -1,9 +1,10 @@
-<div>
-  <p align="center">
+
+  <h2 align="center">
   ## Hi there 👋
-<h3>I'm Taha!</h3>
-  </p>
-</div>
+    </h2>
+<h3 align="center">
+  I'm Taha!</h3>
+  </h3>
 
 
 <p align="center">
