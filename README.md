@@ -1,5 +1,9 @@
-## Hi there 👋
+<div>
+  <p align="center">
+  ## Hi there 👋
 <h3>I'm Taha!</h3>
+  </p>
+  div>
 
 
 <p align="center">
