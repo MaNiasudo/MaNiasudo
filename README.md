@@ -8,5 +8,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ansible,docker,postgres,linux,vscode,django," />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ansible,docker,postgres,linux,vscode,django" />
+  </a>
 </p>
