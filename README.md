@@ -3,7 +3,7 @@
   ## Hi there 👋
 <h3>I'm Taha!</h3>
   </p>
-  div>
+</div>
 
 
 <p align="center">
