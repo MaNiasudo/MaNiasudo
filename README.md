@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h3>I'm Taha!</h3>
-## 🛠️ Skills & Tools
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ansible,docker,postgres,linux,vscode,django," />
