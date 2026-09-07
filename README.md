@@ -9,6 +9,7 @@
 <p>
   <a href="https://easyenv.io"><img src="https://img.shields.io/badge/EasyEnv-Since%202024-F97316?style=for-the-badge&logo=icloud&logoColor=white" alt="EasyEnv" /></a>
   <a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198339674396/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 </p>
 
 </div>
@@ -22,6 +23,8 @@ I am a software engineer working remotely from Oman as a **DevOps and Backend En
 EasyEnv is an AI powered engineering hiring platform that runs technical interviews inside **real Linux machines**, not sandboxes. I build and run the production infrastructure behind that: the Kubernetes clusters the platform lives on, the Terraform and Ansible that provision every machine, the mesh VPN that connects them, and the Django services and APIs that tie it all together.
 
 My day tends to sit right on the line between infrastructure and product. One hour it is a cluster that will not schedule, the next it is a REST endpoint or a frontend view.
+
+Away from the terminal I am usually gaming, working through a book, or spending time with my family.
 
 <br>
 
@@ -108,6 +111,7 @@ My day tends to sit right on the line between infrastructure and product. One ho
 <a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/MaNiasudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://easyenv.io"><img src="https://img.shields.io/badge/easyenv.io-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="easyenv.io" /></a>
+<a href="https://steamcommunity.com/profiles/76561198339674396/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:EA580C&height=120&section=footer" alt="" />
 
