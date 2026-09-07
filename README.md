@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=210&section=header&text=Taha%20Efazati&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=DevOps%20%26%20Backend%20Engineer&descSize=20&descAlignY=54" alt="Taha Efazati" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=210&section=header&text=Taha%20Efazati&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=DevOps%20and%20Backend%20Engineer&descSize=20&descAlignY=54" alt="Taha Efazati" />
 
 <a href="https://github.com/MaNiasudo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&height=45&lines=DevOps+%26+Backend+Engineer+%40+EasyEnv;Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Django;I+run+interviews+on+real+Linux+machines;Remote+from+Sohar%2C+Oman" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&height=45&lines=DevOps+%26+Backend+Engineer+%40+EasyEnv" alt="What I do" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Sohar-Oman-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://easyenv.io"><img src="https://img.shields.io/badge/EasyEnv-Since%202024-8B5CF6?style=for-the-badge&logo=icloud&logoColor=white" alt="EasyEnv" /></a>
   <a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=MaNiasudo&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
