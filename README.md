@@ -9,7 +9,6 @@
 <p>
   <a href="https://easyenv.io"><img src="https://img.shields.io/badge/EasyEnv-Since%202024-F97316?style=for-the-badge&logo=icloud&logoColor=white" alt="EasyEnv" /></a>
   <a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MaNiasudo&style=for-the-badge&color=EA580C&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
