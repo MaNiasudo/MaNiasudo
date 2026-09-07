@@ -103,17 +103,6 @@ My day tends to sit right on the line between infrastructure and product. One ho
 
 <br>
 
-## Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Computing Foundations, 2025" />
-<img src="https://img.shields.io/badge/CompTIA%20Network%2B-2024-C8202F?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+ course, 2024" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### Say hello
