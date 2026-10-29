@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,100:F59E0B&height=210&section=header&text=Taha%20Efazati&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=DevOps%20and%20Backend%20Engineer&descSize=20&descAlignY=54" alt="Taha Efazati" />
+<img src="./assets/header.svg" width="100%" alt="Taha Efazati, DevOps and Backend Engineer" />
 
 <a href="https://github.com/MaNiasudo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=640&height=45&lines=DevOps+%26+Backend+Engineer+%40+EasyEnv" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&duration=3000&pause=1000&color=FF3347&center=true&vCenter=true&width=640&height=45&lines=DevOps+%26+Backend+Engineer+%40+EasyEnv;Kubernetes+%C2%B7+Terraform+%C2%B7+Ansible+%C2%B7+Django;Off+the+clock%3F+Probably+in+a+match" alt="What I do" />
 </a>
 
 <p>
-  <a href="https://easyenv.io"><img src="https://img.shields.io/badge/EasyEnv-Since%202024-F97316?style=for-the-badge&logo=icloud&logoColor=white" alt="EasyEnv" /></a>
-  <a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://steamcommunity.com/profiles/76561198339674396/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="https://easyenv.io"><img src="https://img.shields.io/badge/EasyEnv-Since%202024-E8112D?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0A0A0D" alt="EasyEnv" /></a>
+  <a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-E8112D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0D" alt="Email" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198339674396/"><img src="https://img.shields.io/badge/Steam-0A0A0D?style=for-the-badge&logo=steam&logoColor=FF3347" alt="Steam" /></a>
 </p>
 
 </div>
@@ -48,43 +48,43 @@ Away from the terminal I am usually gaming, working through a book, or spending 
 
 **Languages and Frameworks**
 
-<img src="https://skillicons.dev/icons?i=py,js,django,flask,bash&perline=5" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=py,js,django,flask,bash&perline=5&theme=dark" alt="Languages and frameworks" />
 
 **Cloud, Containers and IaC**
 
-<img src="https://skillicons.dev/icons?i=gcp,cloudflare,docker,kubernetes,ansible,terraform,linux,ubuntu&perline=8" alt="Cloud and infrastructure" />
+<img src="https://skillicons.dev/icons?i=gcp,cloudflare,docker,kubernetes,ansible,terraform,linux,ubuntu&perline=8&theme=dark" alt="Cloud and infrastructure" />
 
 **CI/CD, Data and Observability**
 
-<img src="https://skillicons.dev/icons?i=githubactions,git,github,nginx,postgres,mysql,redis,grafana,prometheus,sentry,vscode&perline=11" alt="CI/CD, data and observability" />
+<img src="https://skillicons.dev/icons?i=githubactions,git,github,nginx,postgres,mysql,redis,grafana,prometheus,sentry,vscode&perline=11&theme=dark" alt="CI/CD, data and observability" />
 
 <br>
 
 **Also in the toolbox**
 
 <p>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/KVM-D33833?style=flat-square&logo=qemu&logoColor=white" alt="KVM" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/NetBird-F68330?style=flat-square&logo=wireguard&logoColor=white" alt="NetBird" />
-  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN" />
-  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" alt="HashiCorp Vault" />
-  <img src="https://img.shields.io/badge/Telegraf-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="Telegraf" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
-  <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Tempo" />
+  <img src="https://img.shields.io/badge/Proxmox-141418?style=flat-square&logo=proxmox&logoColor=FF3347" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/KVM-141418?style=flat-square&logo=qemu&logoColor=FF3347" alt="KVM" />
+  <img src="https://img.shields.io/badge/Helm-141418?style=flat-square&logo=helm&logoColor=FF3347" alt="Helm" />
+  <img src="https://img.shields.io/badge/Hetzner-141418?style=flat-square&logo=hetzner&logoColor=FF3347" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/NetBird-141418?style=flat-square&logo=wireguard&logoColor=FF3347" alt="NetBird" />
+  <img src="https://img.shields.io/badge/OpenVPN-141418?style=flat-square&logo=openvpn&logoColor=FF3347" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/Vault-141418?style=flat-square&logo=vault&logoColor=FF3347" alt="HashiCorp Vault" />
+  <img src="https://img.shields.io/badge/Telegraf-141418?style=flat-square&logo=influxdb&logoColor=FF3347" alt="Telegraf" />
+  <img src="https://img.shields.io/badge/Loki-141418?style=flat-square&logo=grafana&logoColor=FF3347" alt="Loki" />
+  <img src="https://img.shields.io/badge/Tempo-141418?style=flat-square&logo=grafana&logoColor=FF3347" alt="Tempo" />
 </p>
 
 **AI and LLM**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-4" />
-  <img src="https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Llama" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude-141418?style=flat-square&logo=anthropic&logoColor=FF3347" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-141418?style=flat-square&logo=anthropic&logoColor=FF3347" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GPT--4-141418?style=flat-square&logo=openai&logoColor=FF3347" alt="GPT-4" />
+  <img src="https://img.shields.io/badge/Llama-141418?style=flat-square&logo=meta&logoColor=FF3347" alt="Llama" />
+  <img src="https://img.shields.io/badge/DeepSeek-141418?style=flat-square&logo=deepseek&logoColor=FF3347" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Cursor-141418?style=flat-square&logo=cursor&logoColor=FF3347" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Copilot-141418?style=flat-square&logo=githubcopilot&logoColor=FF3347" alt="GitHub Copilot" />
 </p>
 
 </div>
@@ -95,10 +95,10 @@ Away from the terminal I am usually gaming, working through a book, or spending 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaNiasudo&theme=gruvbox" alt="Profile summary" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaNiasudo&theme=chartreuse_dark&title_color=FF3347&text_color=E4E4E7&bg_color=0A0A0D&border_color=4A0A14&icon_color=FF3347&chart_color=E8112D" alt="Profile summary" width="98%" />
 
-<img src="https://streak-stats.demolab.com?user=MaNiasudo&theme=highcontrast&hide_border=true&background=1C1917&ring=F97316&fire=F97316&currStreakNum=FAFAF9&currStreakLabel=FB923C&sideNums=FAFAF9&sideLabels=FDBA74&dates=A8A29E&stroke=F97316" alt="Streak" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaNiasudo&theme=gruvbox&utcOffset=4" alt="Productive time" width="49%" />
+<img src="https://streak-stats.demolab.com?user=MaNiasudo&theme=dark&background=0A0A0D&border=4A0A14&stroke=4A0A14&ring=E8112D&fire=FF3347&currStreakNum=FFFFFF&currStreakLabel=FF3347&sideNums=FFFFFF&sideLabels=A1A1AA&dates=71717A" alt="Streak" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaNiasudo&theme=chartreuse_dark&title_color=FF3347&text_color=E4E4E7&bg_color=0A0A0D&border_color=4A0A14&icon_color=FF3347&chart_color=E8112D&utcOffset=4" alt="Productive time" width="49%" />
 
 </div>
 
@@ -108,11 +108,11 @@ Away from the terminal I am usually gaming, working through a book, or spending 
 
 ### Say hello
 
-<a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/MaNiasudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://easyenv.io"><img src="https://img.shields.io/badge/easyenv.io-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="easyenv.io" /></a>
-<a href="https://steamcommunity.com/profiles/76561198339674396/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+<a href="mailto:TahaxEfazati@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0D?style=for-the-badge&logo=gmail&logoColor=FF3347" alt="Gmail" /></a>
+<a href="https://github.com/MaNiasudo"><img src="https://img.shields.io/badge/GitHub-0A0A0D?style=for-the-badge&logo=github&logoColor=FF3347" alt="GitHub" /></a>
+<a href="https://easyenv.io"><img src="https://img.shields.io/badge/easyenv.io-E8112D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="easyenv.io" /></a>
+<a href="https://steamcommunity.com/profiles/76561198339674396/"><img src="https://img.shields.io/badge/Steam-0A0A0D?style=for-the-badge&logo=steam&logoColor=FF3347" alt="Steam" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:EA580C&height=120&section=footer" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 
 </div>
